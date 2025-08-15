@@ -1,9 +1,9 @@
 import React from "react";
-import html from "../../public/html.png";
-import css from "../../public/css.jpg";
-import javascript from "../../public/javascript.png";
-import php from "../../public/PHP.png";
-import Bootstrap from "../../public/Bootstrap.png";
+import html from "../../public/icons8-html-5.svg";
+import css from "../../public/icons8-css-logo.svg";
+import javascript from "../../public/icons8-javascript.svg";
+import php from "../../public/icons8-php-logo.svg";
+import Bootstrap from "../../public/icons8-bootstrap-logo.svg";
 
 function Experience() {
   const cardItem = [
