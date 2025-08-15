@@ -96,8 +96,6 @@ function Home() {
           </div>
         </div>
       </div>
-
-      <hr />
     </>
   );
 }
