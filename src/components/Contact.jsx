@@ -38,7 +38,7 @@ function Contact() {
             onSubmit={handleSubmit(onSubmit)}
             // action="https://getform.io/f/bqoeowpb"
             // method="POST"
-            className="w-full max-w-xl md:max-w-2xl lg:max-w-3xl bg-slate-200 px-8 py-6 rounded-xl"
+            className="w-full bg-slate-200 px-8 py-6 rounded-xl"
           >
             <h1 className="text-xl font-semibold mb-4">Send Your Message</h1>
             <div className="flex flex-col mb-4">
